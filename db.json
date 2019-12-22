@@ -1,9 +1,7 @@
 {
-	"name": {
-		"me": {
-			"bid": 1.1,
-			"success": true,
-			"authCode": "code"
-		}
-	}
+  "name": {
+    "authCode": "code",
+    "bid": 1.1,
+    "success": true
+  }
 }
