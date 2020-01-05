@@ -3,5 +3,10 @@
     "authCode": "code",
     "bid": 1.1,
     "success": true
+  },
+  "name2": {
+    "authCode": "code",
+    "bid": 1.1,
+    "success": false
   }
 }
